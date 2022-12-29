@@ -1,0 +1,18 @@
+{
+    "name": "SteakHut",
+    "slug": "steakHut",
+    "tags": ["defi", "yield farming"],
+    "status": "Live",
+    "highlight": "Discover endless DeFi opportunities, join the liquidity layer of Avalanche.",
+    "logo": "/img/steakHut.png",
+    "website": "https://steakhut.finance/",
+    "twitter": "https://twitter.com/steakhut_fi",
+    "telegram": "https://t.me/steakhut",
+    "github": "",
+    "discord": "https://discord.gg/steakhut",
+    "summary": "SteakHut Finance is an Avalanche native yield and liquidity aggregator. SteakHut offers a diverse portfolio of tools for individuals and protocols to unlock the full potential of DeFi. SteakHut Liquidity provides a first-of-a-kind concentrated liquidity management platform built on Trader Joes Liquidity book. Liquidity providers can use SteakHut Liquidity to optimize and automate their Trader Joe V2 liquidity. Protocols across Avalanche can also use SteakHut Liquidity to easily integrate LB positions, as well as facilitate deep liquidity for their token.",
+    "docs": "https://whitepaper.steakhut.finance/",
+    "cmc": "https://coinmarketcap.com/currencies/steakhut-finance/",
+    "date": "2022-04-01",
+    "token": "STEAK"
+  }
